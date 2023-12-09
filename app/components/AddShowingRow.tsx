@@ -77,6 +77,7 @@ export default function AddShowingRow({
           <input
             type="date"
             className="mr-4"
+            required
             defaultValue={new Date().toLocaleDateString('en-CA')}
             onChange={(e) => {
               setNewShowing({

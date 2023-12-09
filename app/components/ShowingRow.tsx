@@ -95,6 +95,7 @@ export default function ShowingRow({
       <input
         type="date"
         className="mr-4"
+        required
         disabled={!isEditing}
         defaultValue={newShowing.date.toString().split("T")[0]}
         onChange={(e) => {
