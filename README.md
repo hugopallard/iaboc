@@ -11,9 +11,9 @@ npm install
 - XAMPP
 - WAMP
 
-I am using WAMPSERVER [https://www.wampserver.com/] (https://www.wampserver.com/). There is no need to create an account.
+I am using WAMPSERVER https://www.wampserver.com/. There is no need to create an account.
 
-(3) Create an empty database in WAMP with a name of [iaboc]
+(3) Create an empty database in WAMP with a name of **iaboc**
 
 (4) Create tables and seed the database:
 
