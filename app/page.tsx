@@ -58,7 +58,7 @@ export default async function Home({
 
   return (
     <main className="grid gap-y-4 ml-4 mt-4">
-      <div className="text-2xl font-bold">Hello to your cinema</div>
+      <div className="text-2xl font-bold">Welcome to your cinema</div>
       <div className="text-xl font-bold">Please choose a hall</div>
       <div className="flex gap-x-4">
         {halls.map((hall, key) => (
